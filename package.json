@@ -1,5 +1,5 @@
 {
-  "name": "node-http-finder",
+  "name": "http-finder",
   "version": "0.1.0",
   "description": "Encontra servidores HTTP na rede local",
   "main": "index.js",
